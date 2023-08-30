@@ -45,11 +45,11 @@ h2{
     color: #cccccc;
   }
   
-   video {background-color: rgb(255, 255, 255); 
+   .player_one {background-color: rgb(255, 255, 255); 
     width: 100%;
   }
   
-  audio {background-color: rgb(255, 255, 255); 
+  .player_two{background-color: rgb(255, 255, 255); 
     width: 100%;
   }
 p{color:black;
