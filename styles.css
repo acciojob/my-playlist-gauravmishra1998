@@ -1,9 +1,16 @@
 /*  your css code here. If applicable */
-*{background-color: rgb(204, 204, 204);}
-#playlist{border:1px black solid;
+
+*{background-color: rgb(204, 204, 204);
+ }
+#playlist{background-color: white; border:1px black solid;
 		 border-radius:10px;}
-.audi{background-color: rgb(255, 255, 255); }
+.audi{background-color: rgb(255, 255, 255); 
+	  margin:40px;
+	 padding:10px;
+	  border:2px solid black;
+	 border-radius:10px ;}
 h1{text-align:center;}
 h2{text-align:center;}
-.mishra{background-color:white;}
-ul>li{list-style-type:none;}
+li{font-size:20px;
+	background-color:white;
+	list-style-type:none;}
